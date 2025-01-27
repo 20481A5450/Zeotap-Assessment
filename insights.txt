@@ -1,0 +1,27 @@
+Key Business Insights:
+
+1. Sales Trend:  
+   Monthly sales show a steady increase, with an average monthly growth rate of 140.69%. This indicates strong and consistent growth in sales performance.
+
+2. Top Selling Category:  
+   The product category 'Books' generates the highest revenue, contributing $192,147.47 to overall sales. Expanding this category or introducing complementary products can boost revenue further.
+
+3. Most Valuable Region:  
+   The 'South America' region leads in revenue generation with $219,352.56, indicating a strong market presence and potential for targeted marketing in this region.
+
+4. Customer Spending:  
+   The average transaction value across all customers is $690.00, reflecting a high-value customer base and opportunities to introduce premium products.
+
+5. Customer Recency:  
+   The average time since the last transaction is 73.89 days, suggesting potential to improve customer engagement through retention strategies and loyalty programs.
+
+6. Regional Insights:  
+   The highest average customer value is $3,717.84 in the 'South America' region, highlighting the importance of nurturing relationships with customers in this region.
+
+Predictive Model Performance:
+
+1. Mean Squared Error (MSE):  
+   The model's MSE is 24,104.08, indicating a relatively low error in predicting total transaction value.
+
+2. R-squared (R²):  
+   The R² value is 0.89, demonstrating that the model explains 89% of the variability in the transaction values, making it a reliable predictor.
